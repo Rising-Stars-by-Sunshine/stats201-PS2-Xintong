@@ -1,4 +1,4 @@
-# Title [The Daily Volume of OpenSea platform: Security Vulnerabilities in the NFT Marketplace](https://www.nature.com/articles/s41562-021-01152-2)
+# The Daily Volume of OpenSea platform: Security Vulnerabilities in the NFT Marketplace
 ## Project information
 - **Author**: Xintong Wu, Computation and Design / digital media, Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
