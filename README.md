@@ -16,7 +16,7 @@
 
 
 ## Data
-- Data Source:https://dune.com/queries/2004005
+- Data Source: https://dune.com/queries/2004005
 - [Queried Data](https://github.com/Xintong1122/stats201-PS2-Prediction-Xintong/tree/main/data/Queried_Data)
 - [Processed Data](https://github.com/Xintong1122/stats201-PS2-Prediction-Xintong/tree/main/data/Processed_Data)
 
