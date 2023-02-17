@@ -3,8 +3,7 @@
 - **Author**: Xintong Wu, Computation and Design / digital media, Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set 2 for STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
+- **Acknowledgments**: I would like to express my sincere gratitude to Prof. Luyao Zhang for her guidance in machine learning methods for data interpretation and prediction. Prof. Luyao Zhang provided constructive comments on the feasibility of my research questions and data collection, which prompted me to continuously improve and enhance.
 - **Project Summary**: [Summarize the Background/Motivation, Research Questions, Application Scenario (Data Source), Results, Intellectual Merits and Practical impacts of your project.]
 
 ## Table of Contents
