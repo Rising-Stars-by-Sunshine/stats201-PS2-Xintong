@@ -10,31 +10,26 @@
 ### PartII: Marchine Learning for Prediction 
 ## Table of Contents
 - [data](https://github.com/Xintong1122/stats201-PS2-Prediction-Xintong/tree/main/data)
-- code
-- spotlight
+- [code](https://github.com/Xintong1122/stats201-PS2-Prediction-Xintong/tree/main/code)
+- [spotlight](https://github.com/Xintong1122/stats201-PS2-Prediction-Xintong/tree/main/spotlight)
 
 
 
 ## Data
-- Data Source:
-- Queried Data
-- Processed Data
-- ...
+- Data Source:https://dune.com/queries/2004005
+- [Queried Data](https://github.com/Xintong1122/stats201-PS2-Prediction-Xintong/tree/main/data/Queried_Data)
+- [Processed Data](https://github.com/Xintong1122/stats201-PS2-Prediction-Xintong/tree/main/data/Processed_Data)
+
 
 
 ## Code
-- Query Data
-- Process Data
-- Analyze Data
-- ...
+- [Process Data](https://github.com/Xintong1122/stats201-PS2-Prediction-Xintong/blob/main/code/Process_Data.ipynb)
+- [Analyze Data](https://github.com/Xintong1122/stats201-PS2-Prediction-Xintong/blob/main/code/Analyze_Data.ipynb)
+
 
 ## Spotlight
 - Figures
-- Posters
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+
 
 ## References
 
