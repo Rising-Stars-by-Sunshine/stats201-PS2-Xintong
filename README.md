@@ -11,7 +11,7 @@
 - [data](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/tree/main/data)
 - [code](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/tree/main/code)
 - [spotlight](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/tree/main/spotlight)
-- [References]
+- References
 
 
 ## Data
@@ -38,13 +38,13 @@
 - [stats201-tutorial-prediction/code](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction)
 
 ### Literature
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
+ Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
 
-“Marketplaces Archives.” 2023. The Block. February 17, 2023. https://www.theblockresearch.com/data/nft-non-fungible-tokens/marketplaces.
+- “Marketplaces Archives.” 2023. The Block. February 17, 2023. https://www.theblockresearch.com/data/nft-non-fungible-tokens/marketplaces.
 
-“OpenSea Daily Volume (Ethereum) in ETH.” 2023. Dune.com. February 17, 2023. https://dune.com/queries/1164276/1989727.
+- “OpenSea Daily Volume (Ethereum) in ETH.” 2023. Dune.com. February 17, 2023. https://dune.com/queries/1164276/1989727.
 
-U.S. Attorney’s Office. 2022. “Former Employee of NFT Marketplace Charged in First Ever Digital Asset Insider Trading Scheme.” Www.justice.gov. June 1, 2022. https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme.
+- U.S. Attorney’s Office. 2022. “Former Employee of NFT Marketplace Charged in First Ever Digital Asset Insider Trading Scheme.” Www.justice.gov. June 1, 2022. https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme.
 
 
 
