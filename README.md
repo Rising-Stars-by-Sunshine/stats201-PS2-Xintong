@@ -8,9 +8,9 @@
 
 
 ## Table of Contents
-- [data](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/tree/main/data)
-- [code](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/tree/main/code)
-- [spotlight](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/tree/main/spotlight)
+- [Data](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/tree/main/data)
+- [Code](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/tree/main/code)
+- [Spotlight](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/tree/main/spotlight)
 - References
 
 
