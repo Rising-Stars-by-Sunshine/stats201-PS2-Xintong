@@ -15,8 +15,9 @@
 
 
 ## Data
-- Prediction Data Source: https://dune.com/queries/2004005
-- Meta-data infomation
+Prediction Data Source: https://dune.com/queries/2004005
+
+### Meta Data Infomation
 
 | Data Files  | Data Type | Data Content |
 | ------------- | ------------- | ------------- |
@@ -26,6 +27,29 @@
 | [queried_data.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/Queried_Data/queried_data.csv)  | Queried  | 2022 OpenSea Daily Volume (Ethereum) in ETH  |
 | [Regression_Train.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/Processed_Data/Regression_Train.csv)  | Processed  | Training data for regression  |
 | [Regression_Test.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/Processed_Data/Regression_Test.csv)  | Processed  | Testing data for regression  |
+
+### Data Dictionary
+
+| File Name  | Variable Name | Description | Frecuency | Unit | Type |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [literature.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/NLP/literature.csv)  | Title  | titles of 15 journals  | None  | None  | str  |
+|   | Abstract  | abstract of 15 journals  | None  | None  | str  |
+| [title_bigram.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/NLP/title_bigram.csv)  | bigram  | title's bigram  | None  | None  | tuple  |
+|   | 	counts  | counts of each bigram  | None  | None  | int  |
+| [abstract_bigram.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/NLP/abstract_bigram.csv)  | bigram  | abstract's bigram  | None  | None  | tuple  |
+|   | 	counts  | counts of each bigram  | None  | None  | int  |
+| [queried_data.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/Queried_Data/queried_data.csv)  | Date  | 365 day's in 2022  | daily  | a day  | datetime  |
+|   | Daily Volume  | 2022 OpenSea daily volume (Ethereum) in ETH  | None  | eth  | float  |
+| [Regression_Train.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/Processed_Data/Regression_Train.csv)  | volume  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+|   | 	volume_past_ma10  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 
 ## Code
