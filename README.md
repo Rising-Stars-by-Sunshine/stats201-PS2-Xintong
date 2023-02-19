@@ -21,7 +21,10 @@
 
 
 ## Code
-
+| Explaination  | Prediction |
+| ------------- | ------------- |
+| [NLP NFT Challenge](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/code/NLP_NFT_Challenge.ipynb)  | [Process Data](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/code/Pre_Process_Data.ipynb)  |
+|   | [Analyze Data](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/code/Pre_Analyze_Data.ipynb)  |
 
 
 ## Spotlight
