@@ -31,7 +31,7 @@
 ## References
 
 ### Data Source
-- [OpenSea daily volume (Ethereum) in ETH](https://dune.com/queries/2004005)
+- [OpenSea daily volume (Ethereum) in ETH](https://dune.com/queries/1164276/1989727)
 
 ### Code Source
 - [design-principle-blockchain/code](https://github.com/sunshineluyao/design-principle-blockchain)
