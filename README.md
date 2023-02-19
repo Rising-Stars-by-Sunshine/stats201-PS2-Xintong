@@ -16,8 +16,15 @@
 
 ## Data
 - Prediction Data Source: https://dune.com/queries/2004005
-
-
+- Meta-data infomation
+| Data Files  | Data Type | Data Content |
+| ------------- | ------------- | ------------- |
+| [literature.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/NLP/literature.csv)  | Queried  | 15 "NFT Challenge" journal's topic and abstract  |
+| [title_bigram.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/NLP/title_bigram.csv)  | Processed  | 15 "NFT Challenge" journal's title bigram  |
+| [abstract_bigram.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/NLP/abstract_bigram.csv)  | Processed  | 15 "NFT Challenge" journal's abstract bigram  |
+| [queried_data.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/Queried_Data/queried_data.csv)  | Queried  | 2022 OpenSea Daily Volume (Ethereum) in ETH  |
+| [Regression_Train.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/Processed_Data/Regression_Train.csv)  | Processed  | Training data for regression  |
+| [Regression_Test.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/Processed_Data/Regression_Test.csv)  | Processed  | Testing data for regression  |
 
 
 ## Code
