@@ -17,7 +17,7 @@
 ## Data
 - Prediction Data Source: https://dune.com/queries/2004005
 - Meta-data infomation
-- 
+
 | Data Files  | Data Type | Data Content |
 | ------------- | ------------- | ------------- |
 | [literature.csv](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/data/NLP/literature.csv)  | Queried  | 15 "NFT Challenge" journal's topic and abstract  |
