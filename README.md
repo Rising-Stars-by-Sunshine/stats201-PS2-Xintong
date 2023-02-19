@@ -47,6 +47,9 @@ Prediction Data Source: https://dune.com/queries/2004005
 
 
 ## Code
+Explaination Code Source: https://github.com/sunshineluyao/design-principle-blockchain
+
+Prediction Code Source: https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction
 
 | Explaination  | Prediction |
 | ------------- | ------------- |
