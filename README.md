@@ -25,7 +25,7 @@
 
 
 ## Spotlight
-![image1] (https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/spotlight/figures/figure1_word_cloud.png)
+![image](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/spotlight/figures/figure1_word_cloud.png)
 
 #### Figure No.1. “NFT Challenge” journal topic’s word cloud.
 
@@ -35,7 +35,7 @@ Figure No.1. data source: created by [design-principle-blockchain/code](https://
 explain source: insightsoftware. 2022. “Visualizing Text Analysis Results with Word Clouds.” Insightsoftware. May 4, 2022. https://insightsoftware.com/blog/visualizing-text-analysis-results-with-word-clouds/.
 
 
-![image2] (https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/spotlight/figures/figure2_linear_reg.png)
+![image](https://github.com/Xintong1122/stats201-PS2-Exlanation-Prediction-Xintong/blob/main/spotlight/figures/figure2_linear_reg.png)
 
 #### Figure No.2. Linear regression prediction histogram of 2022 OpenSea Daily Volume (Ethereum) in ETH
 
