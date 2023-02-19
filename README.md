@@ -37,13 +37,41 @@
 - [design-principle-blockchain/code](https://github.com/sunshineluyao/design-principle-blockchain)
 - [stats201-tutorial-prediction/code](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction)
 
+### Articles
+
+[Marketplaces Archives 2023](https://www.theblockresearch.com/data/nft-non-fungible-tokens/marketplaces)
+
+[Former Employee of NFT Marketplace Charged in First Ever Digital Asset Insider Trading Scheme](https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme)
+
 ### Literature
 
-“Marketplaces Archives.” 2023. The Block. February 17, 2023. https://www.theblockresearch.com/data/nft-non-fungible-tokens/marketplaces.
+- Ali, Omar, Mujtaba Momin, Anup Shrestha, Ronnie Das, Fadia Alhajj, and Yogesh K. Dwivedi. 2023. “A Review of the Key Challenges of Non-Fungible Tokens.” Technological Forecasting and Social Change 187 (1): 122248. https://doi.org/10.1016/j.techfore.2022.122248.
 
-“OpenSea Daily Volume (Ethereum) in ETH.” 2023. Dune.com. February 17, 2023. https://dune.com/queries/1164276/1989727.
+- Ante, Lennart. 2022. “Non-Fungible Token (NFT) Markets on the Ethereum Blockchain: Temporal Development, Cointegration and Interrelations.” SSRN Electronic Journal, September. https://doi.org/10.1080/10438599.2022.2119564.
 
-U.S. Attorney’s Office. 2022. “Former Employee of NFT Marketplace Charged in First Ever Digital Asset Insider Trading Scheme.” Www.justice.gov. June 1, 2022. https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme.
+- Arcenegui, Javier, Rosario Arjona, and Iluminada Baturone. 2020 “Secure Management of IOT Devices Based on Blockchain Non-Fungible Tokens and Physical Unclonable Functions.” Lecture Notes in Computer Science 24–40. https://doi.org/10.1007/978-3-030-61638-0_2. 
 
+- Arcenegui, Javier, Rosario Arjona, Roberto Román, and Iluminada Baturone. 2021. “Secure Combination of IoT and Blockchain by Physically Binding IoT Devices to Smart Non-Fungible Tokens Using PUFs.” Sensors 21 (9): 3119. https://doi.org/10.3390/s21093119.
 
+- Bamakan, Seyed Mojtaba Hosseini, Nasim Nezhadsistani, Omid Bodaghi, and Qiang Qu. 2022. “Patents and Intellectual Property Assets as Non-Fungible Tokens; Key Technologies and Challenges.” Scientific Reports 12 (1): 2178. https://doi.org/10.1038/s41598-022-05920-6.
+
+- Chohan, Usman W. 2021. “Non-Fungible Tokens: Blockchains, Scarcity, and Value.” SSRN Electronic Journal, no. 3. https://doi.org/10.2139/ssrn.3822743.
+
+- Flick, Dr Catherine. 2022. “A Critical Professional Ethical Analysis of Non-Fungible Tokens (NFTs).” Journal of Responsible Technology 12 (12): 100054. https://doi.org/10.1016/j.jrt.2022.100054.
+
+- Martinod, Nicolas J., Kambiz Homayounfar, Davi Nachtigall Lazzarotto, Evgeniy Upenik, and Touradj Ebrahimi. 2021. “Towards a Secure and Trustworthy Imaging with Non-Fungible Tokens.” Applications of Digital Image Processing XLIV.no.8.https://doi.org/10.1117/12.2598436. 
+
+- Mazur, Mieszko. 2021. “Non-Fungible Tokens (NFT). The Analysis of Risk and Return.” SSRN Electronic Journal, October. http://dx.doi.org/10.2139/ssrn.3953535.
+
+- Popescu, A. 2021 ‘Non-Fungible Tokens (NFT)-Innovation Beyond the Craze’. In 5th International Conference on Innovation in Business, Economics and Marketing Research 66(5): 26–30.
+
+- Raman, Ramakrishnan, and Benson Edwin Raj. 2021. “The world of NFTs (non-fungible tokens): the future of blockchain and asset ownership.” In Enabling blockchain technology for secure networking and communications 89-108. IGI Global. DOI: 10.4018/978-1-7998-5839-3.ch005.
+
+- Uribe, Daniel. 2020. “Privacy Laws, Non-Fungible Tokens, and Genomics.” The Journal of the British Blockchain Association 3 (2): 1–10. https://doi.org/10.31585/jbba-3-2-(5)2020.
+
+- Valeonti, Foteini, Antonis Bikakis, Melissa Terras, Chris Speed, Andrew Hudson-Smith, and Konstantinos Chalkias. 2021. “Crypto Collectibles, Museum Funding and OpenGLAM: Challenges, Opportunities and the Potential of Non-Fungible Tokens (NFTs).” Applied Sciences 11 (21): 9931. https://doi.org/10.3390/app11219931.
+
+- Wang, Qin, Rujia Li, Qi Wang, and Shiping Chen. 2021. “Non-Fungible Token (NFT): Overview, Evaluation, Opportunities and Challenges”. ArXiv Preprint ArXiv:2105. 07447. No.3. https://doi.org/10.48550/arXiv.2105.07447.
+
+- Wilson, Kathleen Bridget, Adam Karg, and Hadi Ghaderi. 2021. “Prospecting Non-Fungible Tokens in the Digital Economy: Stakeholders and Ecosystem, Risk and Opportunity.” Business Horizons 65 (5). https://doi.org/10.1016/j.bushor.2021.10.007.
 
